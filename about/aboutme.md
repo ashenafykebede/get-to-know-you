@@ -2,8 +2,7 @@
 
 My name is Ashenafi and I love programming.
 
-NEW PARAGRAPH
+This is a second paragraph for my about page
 
 I like music, walking , swimming 
-
 
